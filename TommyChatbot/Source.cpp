@@ -10,7 +10,7 @@ int Chatbot() {
 	cout << "You:";
 	getline(cin, message);
 	if (message == "Who are you?") {
-		cout << "This is TommyChatbot. This is not copyrighted. Please do not leak this dev";
+		cout << "This is TommyChatbot. This is not copyrighted. Please do not leak this developer build.";
 	}
 	else if (message == "I have a virus.") {
 		cout << "I would reccomend doing a full scan of your antivirus of choice.";
