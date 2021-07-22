@@ -1,2 +1,2 @@
 # TommyChatbot
-An experpimtal expandable chatbot!
+This version is discountinued. Please consider pointing your changes to the Python edition.
