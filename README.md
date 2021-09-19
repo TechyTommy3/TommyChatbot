@@ -1,2 +1,3 @@
 # TommyChatbot
-This version is discountinued. Please consider pointing your changes to the Python edition.
+This version is kind of discountinued. We reccomend the Python version, but if you know
+C++, please help!
